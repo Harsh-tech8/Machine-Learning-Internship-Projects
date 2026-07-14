@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Learning Internship Projects
 
 This repository contains **10 Machine Learning projects** completed during my internship. Each project demonstrates different machine learning concepts, including data preprocessing, exploratory data analysis (EDA), model building, evaluation, and prediction.
@@ -58,3 +59,6 @@ Machine-Learning-Internship-Projects/
 Harsh Nagavan
 
 Machine Learning Intern
+=======
+# Machine-Learning-Internship-Projects
+>>>>>>> ff4a380b4ddc5ecca7e47c2dc54970e2fa3f8d27
